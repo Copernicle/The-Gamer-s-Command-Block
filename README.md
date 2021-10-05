@@ -1,5 +1,7 @@
-# The-Gamer-s-Command-Block
+# The Gamer's Command Block
+The next generation of command blocks. Full RGB.
 The Gamers Command Block texture pack makes the minecraft command block into an RGB command block!
+
 
 TERMS AND CONDITIONS
 Please take a moment to review the Legal Terms and Conditions of this resource pack.
