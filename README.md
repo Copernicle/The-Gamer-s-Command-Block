@@ -2,17 +2,17 @@
 The next generation of command blocks. Full RGB.
 The Gamers Command Block texture pack makes the minecraft command block into an RGB command block!
 
-## Terms and Conditions (will be updated in the future.)
-Please take a moment to review the Legal Terms and Conditions of this resource pack.
-By downloading this texture pack you agree to these terms and conditions.
-### You May:
-- Publish videos of this resource pack as long as a link to this resource pack and proper credit is given.
-
-### You May Not:
-- Re-Distribute or Re-Upload this resource pack or part of this resource pack without modifications, including other platforms.    	
-- Claim this as your own.
-
-If you create a fork of this, or your own version, and decide to publish it, you MUST make it clear that it is NOT the original, and you must link to the original adequately and obviously.
-
 Thank you for using this resource pack by Copernicle.
 Copyright © by Copernicle 2025
+
+## License
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
